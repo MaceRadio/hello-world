@@ -1,2 +1,2 @@
 # hello-world
-first repository
+this is an edit/commit of a feature to the master branch.
